@@ -1,0 +1,16 @@
+div {
+    display: inline-block;
+    padding: 20px 25px 30px 35px;
+    margin: 10 15 20 25;
+    border: 5px solid steelblue;
+}
+
+.div1 {
+    display: none;
+    height: 300px;
+    width: 50%;
+}
+
+.div2:hover {
+    border-style: dotted;
+}
